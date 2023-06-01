@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Mynasyp",
+    "desc": "Pižama balak 'Mynasyp' ölçeg M",
+    "price": "33.20",
+    "imgUrl": "/items/trouser.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Jacobs",
+    "desc": "Kofe Jacobs Monarch, çüýşe gapda 47.5 gr",
+    "price": "33.20",
+    "imgUrl": "/items/jacobs.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Syoss",
+    "desc": "Balzam Syoss 'VOLUME' inçe we göwrümi ýiten saçlar üçin 450 ml",
+    "price": "33.20",
+    "imgUrl": "/items/syoss.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Markow",
+    "desc": "Kofe Markow 'Arabica' 2 gr",
+    "price": "33.20",
+    "imgUrl": "/items/markow.jpg"
+  }
+]
